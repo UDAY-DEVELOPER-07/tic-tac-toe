@@ -101,7 +101,7 @@ export default function App() {
     setCurrentMove(nextMove);
   }
 
-  const moves = history.map((square, move) =>{
+  const moves = history.map((_, move) =>{
     let description;
     if(move > 0){
       description = 'Move ' + move;
