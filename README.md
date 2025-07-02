@@ -25,7 +25,7 @@ A simple implementation of the classic Tic-Tac-Toe game.
   ```bash
   cd tic-tac-toe
   ```
-3. Run the game according to the instructions in the project (see `main.py` or equivalent).
+3. Run the game according to the instructions in the project.
 
 ## License
 
